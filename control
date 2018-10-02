@@ -1,0 +1,9 @@
+Package: com.williammuff.easydictationxi
+Name: EasyDictationXI
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Single tap for dictation in void below keyboard
+Maintainer: William Muff
+Author: William Muff
+Section: Tweaks
